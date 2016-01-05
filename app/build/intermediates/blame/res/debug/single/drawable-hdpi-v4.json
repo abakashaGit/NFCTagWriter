@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\NFCTagWriter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidStudioWorkspace\\NFCTagWriter\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioWorkspace\\NFCTagWriter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\writer.png",
+        "source": "D:\\AndroidStudioWorkspace\\NFCTagWriter\\app\\src\\main\\res\\drawable-hdpi\\writer.png"
+    }
+]
